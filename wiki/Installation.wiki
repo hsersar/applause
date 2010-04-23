@@ -1,0 +1,12 @@
+#labels Phase-Deploy,Featured
+#follow this to install applause
+
+= Introduction =
+
+  * Eclipse Xtext 1.0M6: http://xtext.itemis.de/xtext/language=de/23940/downloads
+  * for android-support : 
+    * Eclipse-Plugin :http://developer.android.com/sdk/eclipse-adt.html#installing
+    * SDK:http://developer.android.com/sdk/index.html
+  * for iPhone-support :
+   * Snow-Leopard: 10.6.X
+   * XCode 3.2 : http://developer.apple.com/iphone/index.action
