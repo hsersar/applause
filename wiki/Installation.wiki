@@ -3,7 +3,7 @@
 
 = General =
   * Eclipse for your OS: Xtext 1.0M6: http://xtext.itemis.de/xtext/language=de/23940/downloads
- == Android-support ==
+== Android-support ==
   * Eclipse-Plugin :http://developer.android.com/sdk/eclipse-adt.html#installing
   * SDK:http://developer.android.com/sdk/index.html
 == iPhone == 
