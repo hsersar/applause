@@ -1,11 +1,11 @@
 #summary follow this to install applause
 #labels Phase-Deploy,Featured
 
-= General =
+= software requirements =
   * Eclipse for your OS: Xtext 1.0M6: http://xtext.itemis.de/xtext/language=de/23940/downloads
 == Android-support ==
-  * Eclipse-Plugin :http://developer.android.com/sdk/eclipse-adt.html#installing
-  * SDK:http://developer.android.com/sdk/index.html
+  * Android Eclipse-Plugin :http://developer.android.com/sdk/eclipse-adt.html#installing
+  * Android SDK:http://developer.android.com/sdk/index.html
 == iPhone/iPad - support == 
   * only for Mac OSX
     * working with Snow-Leopard: 10.6.X
@@ -13,3 +13,11 @@
   * working with XCode 3.2 : http://developer.apple.com/iphone/index.action
 == other Mobile OS ==
  * comming soon
+
+= from update-site =
+  * easiest way to install the applause eclipse-plugin 
+  * just add .....(comming soon).... to your eclipse available software sites 
+
+= from source =
+  * for developers or members who want to understanding the technology
+  * checkout by svn .... description comming soon
