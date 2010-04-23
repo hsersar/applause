@@ -1,5 +1,5 @@
+#summary follow this to install applause
 #labels Phase-Deploy,Featured
-#follow this to install applause
 
 = Introduction =
 
