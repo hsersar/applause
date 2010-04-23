@@ -15,8 +15,9 @@
  * comming soon
 
 = from update-site =
-  * easiest way to install the applause eclipse-plugin 
-  * just add .....(comming soon).... to your eclipse available software sites 
+  * easiest and fastest way to work with applause
+  * install the applause eclipse-plugin 
+    * just add .....(comming soon).... to your eclipse available software sites
 
 = from source =
   * for developers or members who want to understanding the technology
