@@ -17,7 +17,7 @@
 = from update-site =
   * easiest and fastest way to work with applause
   * install the applause eclipse-plugin 
-    * just add .....(comming soon).... to your eclipse available software sites
+    * just add .....(coming soon).... to your eclipse available software sites
 
 = from source =
   * for developers or members who want to understanding the technology
