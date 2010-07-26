@@ -2,13 +2,13 @@
 #labels Phase-Deploy,Featured
 
 = software requirements =
-  * full Eclipse for your OS: Xtext 1.0: http://xtext.itemis.com/xtext/language=en/23947/downloads
+  * full Eclipse(3.6) for your OS: Xtext 1.0: http://xtext.itemis.com/xtext/language=en/23947/downloads
   * or Update-Site for your Eclipse: http://www.eclipse.org/Xtext/download/
 
-if you need the Android-support you must stay at Eclipse 3.5 (Galileo) because googles android-plugin is not compatible with Eclipse 3.6 (Helios), more see here => http://developer.android.com/sdk/requirements.html
 
 == Android-support ==
   * Android Eclipse-Plugin :http://developer.android.com/sdk/eclipse-adt.html#installing 
+    * the plugin should only support Eclipse 3.5, but there are no problems to run it with Eclipse 3.6 (helios), more see here => http://developer.android.com/sdk/requirements.html
   * Android SDK:http://developer.android.com/sdk/index.html
 
 == iPhone/iPad - support == 
