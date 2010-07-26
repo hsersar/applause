@@ -2,7 +2,7 @@
 #labels Phase-Deploy,Featured
 
 = software requirements =
-  * Eclipse for your OS: Xtext 1.0M6: http://xtext.itemis.de/xtext/language=de/23940/downloads
+  * Eclipse for your OS: Xtext 1.0: http://xtext.itemis.com/xtext/language=en/23947/downloads
 == Android-support ==
   * Android Eclipse-Plugin :http://developer.android.com/sdk/eclipse-adt.html#installing
   * Android SDK:http://developer.android.com/sdk/index.html
