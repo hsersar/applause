@@ -21,4 +21,4 @@
 
 = from source =
   * for developers or members who want to understanding the technology
-  * checkout by svn .... description comming soon
+  * checkout by svn from http://applause.googlecode.com/svn (readonly) or https://applause.googlecode.com/svn (writeable as Developer)
