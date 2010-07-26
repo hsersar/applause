@@ -2,15 +2,21 @@
 #labels Phase-Deploy,Featured
 
 = software requirements =
-  * Eclipse for your OS: Xtext 1.0: http://xtext.itemis.com/xtext/language=en/23947/downloads
+  * full Eclipse for your OS: Xtext 1.0: http://xtext.itemis.com/xtext/language=en/23947/downloads
+  * or Update-Site for your Eclipse: http://www.eclipse.org/Xtext/download/
+
+if you need the Android-support you must stay at Eclipse 3.5 (Galileo) because googles android-plugin is not compatible with Eclipse 3.6 (Helios), more see here => http://developer.android.com/sdk/requirements.html
+
 == Android-support ==
-  * Android Eclipse-Plugin :http://developer.android.com/sdk/eclipse-adt.html#installing
+  * Android Eclipse-Plugin :http://developer.android.com/sdk/eclipse-adt.html#installing 
   * Android SDK:http://developer.android.com/sdk/index.html
+
 == iPhone/iPad - support == 
   * only for Mac OSX
     * working with Snow-Leopard: 10.6.X
     * not testet with Leopard: 10.5.X
   * working with XCode 3.2 : http://developer.apple.com/iphone/index.action
+
 == other Mobile OS ==
  * comming soon
 
